@@ -1,2 +1,2 @@
 # WebAppGenerator
-An application that creates basic stubs for a flask portal
+An application that generates the basic stubs for a flask portal. These basic stubs include a login interface, and other apps
